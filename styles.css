@@ -60,16 +60,18 @@ li a:hover:not(.active),
     height:100px;
     display:flex;
   }
+
 .search
 {
     margin-right: 50px;
     margin-top: 20px;
-    margin-bottom:40px;
+		margin-bottom:40px;
     right: 20px;
     text-align: left;
     float: right;
 
 }
+
 input[type='search'] {
     width:200px;
     height:23px;
@@ -92,6 +94,7 @@ input[type='search'] {
     background-color:#851111;
 
 }
+
 h1 {
 	color:white;
 	font:36px arial, helvetica;
@@ -110,6 +113,8 @@ ul, ol {
 	font-size: 16px;
 	line-height:150%;
 }
+
+
 .header {
 	width: 80%;
     height:50%;
@@ -120,6 +125,7 @@ ul, ol {
 	float: none;
     background-color:#ffffff;
 }
+
 .contentwrap{
     background-color:#ffffff;
 	margin-top: 0px;
@@ -172,9 +178,12 @@ p{
   margin-right: 5px;
   padding-left: 0px;
 }
+
+
 .cards:hover{
     box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.5);
 }
+
 .cardtitle{
 	text-align: center;
 	background-color: #000080;
@@ -210,10 +219,10 @@ p{
     transition: .6s ease;
     background-color:rgba(0,0,0, .8);
 }
+
 .image:hover .overlay{
     opacity: 1;
 }
-
 .text {
     position: absolute;
     top:40%;
@@ -240,7 +249,8 @@ p{
 	word-spacing:2px;
     margin-top: 0px;
 }
-.cards .button {
+
+	.cards .button {
 	border:solid;
 	background-color:#4B8B3B;
 	padding: 5px ;
@@ -252,16 +262,20 @@ p{
 	margin-left:30%;
     margin-bottom:10%;
 	cursor: pointer;
-}
+	}
+
 	.cards .button:hover {
 	background-color: #30872C;
 	color: white;
 	border-radius: 2px;
 	}
+
+
+
 .footer{
 	position:relative;
 	padding:6px 4px 4px 4px;
-		margin-left:0px;
+	margin-left:0px;
 	margin-right: 20px;
   margin-top: 10px;
 	margin-bottom: 20px;
@@ -272,4 +286,3 @@ p{
   width:150%;
 
 }
-
