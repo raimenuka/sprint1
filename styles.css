@@ -110,3 +110,10 @@ ul, ol {
 	font-size: 16px;
 	line-height:150%;
 }
+.header {
+	width: 80%;
+    height:50%;
+
+	float: none;
+    background-color:#ffffff;
+}
