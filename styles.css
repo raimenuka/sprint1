@@ -253,4 +253,6 @@ p{
     margin-bottom:10%;
 	cursor: pointer;
 }
-
+	.cards .button:hover {
+	background-color: #30872C;
+	}
