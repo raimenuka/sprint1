@@ -210,3 +210,6 @@ p{
     transition: .6s ease;
     background-color:rgba(0,0,0, .8);
 }
+.image:hover .overlay{
+    opacity: 1;
+}
