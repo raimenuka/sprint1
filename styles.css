@@ -183,3 +183,9 @@ p{
     border-top-left-radius:5px;
 	padding: 5px;
 }
+.container{
+    position: relative;
+    width:100%;
+    height:auto;
+
+}
