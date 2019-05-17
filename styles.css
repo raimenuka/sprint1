@@ -92,3 +92,17 @@ input[type='search'] {
     background-color:#851111;
 
 }
+h1 {
+	color:white;
+	font:36px arial, helvetica;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h3{
+	text-align: center;
+    color: white;
+	font-size: 18px;
+	font-family: sans-serif;
+}
