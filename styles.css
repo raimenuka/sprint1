@@ -151,3 +151,24 @@ p{
     margin-left:5px;
     margin-right:5px;
 }
+.container{
+	display: flex;
+	flex-direction:row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.cards{
+	display: flex;
+	flex-direction: column;
+	/* flex-grow: 1; */
+	width:300px;
+	/* height:30; */
+	border-radius: 5px;
+	margin:2%;
+	box-shadow: 2px 2px 2px 2px black;
+	box-sizing: border-box;
+	background: white;
+  margin-left:5px;
+  margin-right: 5px;
+  padding-left: 0px;
+}
