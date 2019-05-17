@@ -70,3 +70,25 @@ li a:hover:not(.active),
     float: right;
 
 }
+input[type='search'] {
+    width:200px;
+    height:23px;
+    background-color:#ffffff;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    padding-left:18px;
+}
+
+.title {
+    text-align:center;
+    height:100%;
+    width:100%;
+    margin-left:0px;
+    margin-right:0px;
+	margin-top:50px;
+	margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    background-color:#851111;
+
+}
