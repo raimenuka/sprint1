@@ -172,3 +172,6 @@ p{
   margin-right: 5px;
   padding-left: 0px;
 }
+.cards:hover{
+    box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.5);
+}
