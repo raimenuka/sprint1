@@ -261,5 +261,15 @@ p{
 .footer{
 	position:relative;
 	padding:6px 4px 4px 4px;
+		margin-left:0px;
+	margin-right: 20px;
+  margin-top: 10px;
+	margin-bottom: 20px;
+	background-color:#851111;
+	color:white;
+	text-align:center;
+	height:200%;
+  width:150%;
+
 }
 
