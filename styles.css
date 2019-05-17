@@ -60,3 +60,11 @@ li a:hover:not(.active),
     height:100px;
     display:flex;
   }
+.search
+{
+    margin-right: 50px;
+    margin-top: 20px;
+		margin-bottom:40px;
+    right: 20px;
+
+}
